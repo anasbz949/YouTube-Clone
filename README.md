@@ -1,2 +1,2 @@
 # YouTube-Clone
-I just create a youtube clone using only HTML &amp; CSS 
+I create a youtube clone using only HTML &amp; CSS 
